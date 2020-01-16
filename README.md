@@ -1,4 +1,4 @@
-# Simple Calculator Project in C
+# Calculator Project in C
 
 ## C Programming Language Practice
 
