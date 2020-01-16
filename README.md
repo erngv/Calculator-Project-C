@@ -1,4 +1,5 @@
-# Simple Calculator in C
+# Simple Calculator Project in C
+
 ## C Programming Language Practice
 
 This simple calculator computes the following:
