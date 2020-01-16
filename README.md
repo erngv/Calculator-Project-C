@@ -15,5 +15,6 @@ The program allows the user to choose whether they want to calculate the perimet
 
 The program then asks the user for the appropriate measurements needed to perform the calculations, and validates user’s input. Finally, the program prints the result of the calculations to two decimal places and prompts the user to make additional calculations.
 
-The program includes a user defined library with user defined functions.
+The project includes a user defined library with user defined functions. It also includes a `Makefile` suitable for compiling this simple C project into object ﬁles and into an executable.
+
 
